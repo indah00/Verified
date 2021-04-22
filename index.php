@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Coba</title>
+<title>CRUD</title>
 </head>
 <body>
-	<h1>Hello World !!</h1>
-    <h2>Tugas Lab PI </h2>
+	<h1>Hello World</h1>
 </body>
 </html>
